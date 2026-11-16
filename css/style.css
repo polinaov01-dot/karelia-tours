@@ -374,10 +374,12 @@ h1, .left_card h3, .right_card h3 {
     width: 668px;
 }
 
-.tour_page .left_card_row p,
+.tour_page .tour_card_text p,
 .tour_page .card_text p {
+    width: 668px;
     font-size: 16px;
     line-height: 21px;
+    text-align: justify;
 }
 
 .tour_page .page_intro {
