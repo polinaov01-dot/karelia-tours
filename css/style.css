@@ -217,7 +217,7 @@ a:focus-visible {
     margin-top: 31px;
 }
 
-h1, .left_card h3, .right_card h3 {
+h1, .page_intro h2, .left_card h3, .right_card h3 {
     color: #1e3a34;
     font-size: 28px;
     font-weight: 700;
