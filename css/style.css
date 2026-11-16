@@ -557,3 +557,28 @@ h1, .page_intro h2, .left_card h3, .right_card h3 {
     font-size: 12px;
     line-height: 18px;
 }
+
+
+/* Карта сайта */
+.map_content {
+    min-height: 408px;
+    padding-top: 23px;
+    padding-bottom: 25px;
+}
+
+.map_content .map_text {
+    width: 892px;
+    margin-top: 22px;
+    font-size: 20px;
+    line-height: 22px;
+    text-align: left;
+}
+
+.map_content .map_text p {
+    margin: 0;
+    text-indent: 0;
+}
+
+.map_content .map_text strong {
+    font-weight: 700;
+}
