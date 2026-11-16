@@ -377,8 +377,8 @@ h1, .left_card h3, .right_card h3 {
 .tour_page .tour_card_text p,
 .tour_page .card_text p {
     width: 668px;
-    font-size: 16px;
-    line-height: 21px;
+    font-size: 18px;
+    line-height: 24px;
     text-align: justify;
 }
 
@@ -387,8 +387,8 @@ h1, .left_card h3, .right_card h3 {
 }
 
 .tour_page .intro_text {
-    font-size: 16px;
-    line-height: 21px;
+    font-size: 18px;
+    line-height: 24px;
     text-indent: 17px;
 }
 
