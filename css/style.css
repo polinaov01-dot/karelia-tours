@@ -359,6 +359,19 @@ h1, .left_card h3, .right_card h3 {
 }
 
 /* Туры и отзывы */
+.tour_page .left_card h3,
+.tour_page .right_card h3 {
+    font-size: 20px;
+    font-style: italic;
+    line-height: 24px;
+}
+
+.tour_page .left_card_row p,
+.tour_page .card_text p {
+    font-size: 12px;
+    line-height: 16px;
+}
+
 .tour_page .page_intro {
     min-height: 198px;
 }
