@@ -219,9 +219,9 @@ a:focus-visible {
 
 h1, .left_card h3, .right_card h3 {
     color: #1e3a34;
-    font-size: 32px;
+    font-size: 24px;
     font-weight: 700;
-    line-height: 37px;
+    line-height: 28px;
 }
 
 .page_intro {
