@@ -219,9 +219,9 @@ a:focus-visible {
 
 h1, .left_card h3, .right_card h3 {
     color: #1e3a34;
-    font-size: 24px;
+    font-size: 28px;
     font-weight: 700;
-    line-height: 28px;
+    line-height: 33px;
 }
 
 .page_intro {
@@ -321,7 +321,17 @@ h1, .left_card h3, .right_card h3 {
 }
 
 .left_card h3 {
-    margin: 0 0 31px 294px;
+    margin: 0 0 31px;
+}
+
+.experts_card h2 {
+    margin: 0 0 22px;
+    color: #6b7a78;
+    font-size: 24px;
+    font-style: italic;
+    font-weight: 700;
+    line-height: 28px;
+    text-align: center;
 }
 
 .left_card_row {
